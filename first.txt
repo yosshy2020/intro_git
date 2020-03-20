@@ -3,3 +3,4 @@ GITの練習をしていきます。
 ・git acd
 ・git commit
 ・git rm
+・git status
